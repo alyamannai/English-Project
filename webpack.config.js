@@ -24,7 +24,7 @@ plugins: [
             template: 'dist/contact.html', // Template path in the 'dist' directory
         }),
         new HtmlWebpackPlugin({
-            template: 'dist/price.html', // Template path in the 'dist' directory
+            template: 'dist/parks.html', // Template path in the 'dist' directory
         }),
         new HtmlWebpackPlugin({
             template: 'dist/location.html', // Template path in the 'dist' directory
