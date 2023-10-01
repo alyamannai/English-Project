@@ -54,7 +54,7 @@
     background-image: linear-gradient(rgba(0, 0, 0, 0.5), rgba(0, 0, 0, 0.5)), url(./lion.jpg);
     background-size:cover;
     border:0.2rem solid #393e46;
-    border-radius: 0.5rem 0.5rem 0 0;
+    border-radius: 0.5rem;
     height: 35rem;
     width: 70%;
     margin-top: 10rem;
@@ -133,7 +133,7 @@ iframe{
     flex-direction: column;
     justify-content: space-between;
     align-items: center;
-    margin-top: 15rem;
+    margin-top: 5rem;
 }
 .tsnI{
     
@@ -194,3 +194,53 @@ iframe{
     border:#393e46 0.2rem solid;
     border-radius: 0.5rem;
 }
+
+#pTitle{
+    text-align: center;
+    margin-top: 15rem;
+    
+}
+
+#contact{
+    height: 30rem;
+    width:20rem;
+    background-color: #fd7014;
+    border: #393e46 solid 0.2rem;
+    border-radius: 0.5rem;
+    color: white;
+    margin-top: 20rem;
+ 
+}
+#cList{
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items:space-around;
+    gap: 2rem;
+    
+}
+
+#fContact{
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    gap:3rem
+}
+
+#wContact{
+    margin-top: 20rem; ;
+    height: 30rem;
+    width: 20rem;
+    background-color: #fd7014;
+    border: #393e46 solid 0.2rem;
+    border-radius: 0.5rem;
+
+}
+
+.input{
+    display: flex;
+    flex-direction: column;
+    align-items: flex-start;
+    justify-content: space-between;
+}
+
