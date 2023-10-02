@@ -1,0 +1,1 @@
+window.addEventListener("DOMContentLoaded",(()=>{const e=document.getElementById("submit"),t=document.querySelectorAll("input");e.addEventListener("click",(()=>{t.forEach((e=>{e.value=""}))}))}));
