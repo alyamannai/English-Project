@@ -51,7 +51,7 @@
     display: flex;
     flex-direction: column;
     align-items:space-between;
-    background-image: linear-gradient(rgba(0, 0, 0, 0.5), rgba(0, 0, 0, 0.5)), url(./lion.jpg);
+    background-image: linear-gradient(rgba(0, 0, 0, 0.5), rgba(0, 0, 0, 0.5)), url(lion.jpg);
     background-size:cover;
     border:0.2rem solid #393e46;
     border-radius: 0.5rem;
@@ -148,7 +148,7 @@ iframe{
     align-items: flex-start;
     height:30rem;
     width: 100%;
-    background-image: linear-gradient(rgba(0, 0, 0, 0.5), rgba(0, 0, 0, 0.5)), url(./elephant.jpg);
+    background-image: linear-gradient(rgba(0, 0, 0, 0.5), rgba(0, 0, 0, 0.5)), url(elephant.jpg);
     background-size: cover;
     color:white;
     border:#393e46 0.2rem solid;
@@ -172,7 +172,7 @@ iframe{
     align-items: flex-start;
     height:30rem;
     width: 100%;
-    background-image: linear-gradient(rgba(0, 0, 0, 0.5), rgba(0, 0, 0, 0.5)), url(./serengeti.jpg);
+    background-image: linear-gradient(rgba(0, 0, 0, 0.5), rgba(0, 0, 0, 0.5)), url(serengeti.jpg);
     background-size:cover;
     color:white;
     border:#393e46 0.2rem solid;
@@ -190,7 +190,7 @@ iframe{
     align-items: flex-start;
     height:30rem;
     width: 58%;
-    background-image: linear-gradient(rgba(0, 0, 0, 0.5), rgba(0, 0, 0, 0.5)), url(./ngoCrater.jpg);
+    background-image: linear-gradient(rgba(0, 0, 0, 0.5), rgba(0, 0, 0, 0.5)), url(ngoCrater.jpg);
     background-size: cover;
     color:white;
     border:#393e46 0.2rem solid;
